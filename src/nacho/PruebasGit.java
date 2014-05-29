@@ -19,6 +19,6 @@ public class PruebasGit {
     }
     public void metodojimovellan()
     {
-        System.out.println("modificado jimovellan");
+        System.out.println("modificado jimovelland");
     }        
 }
