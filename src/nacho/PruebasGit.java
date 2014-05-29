@@ -17,4 +17,8 @@ public class PruebasGit {
         System.out.println("hola mundo");
         System.out.println("commit directo");
     }
+    public void metodojimovellan()
+    {
+        
+    }        
 }
