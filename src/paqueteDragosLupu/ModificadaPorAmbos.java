@@ -12,7 +12,7 @@ public class ModificadaPorAmbos {
     
     public void metodoDragos()
     {
-        
+        System.out.println("dragos");
     }
     
 }
